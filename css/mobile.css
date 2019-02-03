@@ -12,6 +12,11 @@
 #main-nav .logo {
   justify-self: center;
 }
+ 
+a img.logo {
+  display: block;
+  margin: auto;
+}
 
 #main-nav ul li a {
   padding: 0.50rem;
